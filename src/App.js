@@ -17,7 +17,7 @@ function App() {
         <div style={{ display: 'flex', flexDirection: 'column', flex: 1, lineHeight: '24.2px' }}>
 
           <div style={{ backgroundColor: '#F5F8F8', display: 'flex', flexDirection: 'column', flex: 1, lineHeight: '24.2px' }}>
-            <p style={{ fontSize: '24px', fontWeight: '600', lineHeight: '36px', fontFamily: 'Poppins', textAlign: 'left', padding: '10px 30px', color: '#121114', margin: '0' }}>Zippyy wallet configuration
+            <p style={{ marginTop: '15px', marginBottom: '15px', fontSize: '24px', fontWeight: '600', lineHeight: '36px', fontFamily: 'Poppins', textAlign: 'left', padding: '10px 90px', color: '#121114' }}>Zippyy wallet configuration
             </p>
 
             <div>

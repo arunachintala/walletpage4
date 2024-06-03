@@ -40,6 +40,27 @@ export default function ControlledRadioButtonsGroup() {
                         color: '#121114',
                     }}
                 />
+                <FormControlLabel
+                    value="Wallet"
+                    control={
+                        <Radio
+                            sx={{
+                                color: '#D54029',
+                                '&.Mui-checked': {
+                                    color: '#D54029',
+                                },
+                            }}
+                        />
+                    }
+                    label="Wallet"
+                    sx={{
+                        fontFamily: 'Poppins',
+                        fontWeight: '500',
+                        fontSize: '16px',
+                        lineHeight: '24px',
+                        color: '#121114',
+                    }}
+                />
             </RadioGroup>
         </FormControl>
     );
